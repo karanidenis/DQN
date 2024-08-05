@@ -1,0 +1,5 @@
+gymnasium
+stable_baselines3
+shimmy
+matplotlib
+opencv-python
