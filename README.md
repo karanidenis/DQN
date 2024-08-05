@@ -19,9 +19,9 @@ The environment is the hospital set up with rooms and obstacles.
 The agent is the person who is trying to reach the destination.
 
 # Setup Instructions
-    Clone the repository: `git clone https://github.com/karanidenis/DQN`
-    Install dependencies: `pip install -r requirements.txt`
-    Run the training script: `python train.py`
-    Test the trained model: `python play.py`
+1. Clone the repository: `git clone https://github.com/karanidenis/DQN`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the training script: `python train.py`
+4. Test the trained model: `python play.py`
 
 
